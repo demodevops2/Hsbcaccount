@@ -1,0 +1,9 @@
+---
+buildName: "accountinformationt"
+links:
+  Git: "http://gogs/gogsadmin/accountinformationt.git"
+  Job: "http://jenkins.f8.52.31.223.151.nip.io/job/accountinformationt"
+  Testing: "http://100.68.105.92:80/kubernetes/pods?namespace=f8-testing"
+environments:
+  Testing: "f8-testing"
+useLocalFlow: true
